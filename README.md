@@ -73,7 +73,7 @@ ubuntu@ip -> root@ip
 ## 3.4 소스파일 깃 클론으로 가져오기
 
 ```bash
-git clone https://github.com/Seop0728/Sesac-JUNGNANG.git
+https://github.com/Seop0728/my-guest-book.git
 ```
 
 ## 3.5 MySQL 패키지 설치
